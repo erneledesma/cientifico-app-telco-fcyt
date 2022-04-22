@@ -1,0 +1,19 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "SPA de consumo de Api de Ryck and Morty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernesto Ledesma",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "babel-loader": "^8.2.5",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.8.1"
+  }
+}
